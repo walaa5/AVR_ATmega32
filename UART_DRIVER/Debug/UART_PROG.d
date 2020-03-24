@@ -1,0 +1,10 @@
+UART_PROG.o UART_PROG.o: ../UART_PROG.c ../UART_REG.h ../LIBS/STD_TYPES.h \
+  ../LIBS/MATH.h ../UART_INT.h
+
+../UART_REG.h:
+
+../LIBS/STD_TYPES.h:
+
+../LIBS/MATH.h:
+
+../UART_INT.h:

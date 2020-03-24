@@ -1,0 +1,8 @@
+EEPROM_PROG.o EEPROM_PROG.o: ../EEPROM_PROG.c ../I2C.h ../EEPROM_INT.h \
+  ../LIBS\STD_TYPES.h
+
+../I2C.h:
+
+../EEPROM_INT.h:
+
+../LIBS\STD_TYPES.h:

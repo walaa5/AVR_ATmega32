@@ -1,0 +1,10 @@
+EXTI_PROG.o EXTI_PROG.o: ../EXTI_PROG.c ../LIBS\STD_TYPES.h \
+  ../LIBS\MATH.h ../AVR_EXTI_REG.h ../EXTI_INT.h
+
+../LIBS\STD_TYPES.h:
+
+../LIBS\MATH.h:
+
+../AVR_EXTI_REG.h:
+
+../EXTI_INT.h:

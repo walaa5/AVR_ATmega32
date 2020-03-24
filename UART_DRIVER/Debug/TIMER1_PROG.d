@@ -1,0 +1,12 @@
+TIMER1_PROG.o TIMER1_PROG.o: ../TIMER1_PROG.c ../LIBS\MATH.h \
+  ../AVR_TIMER_REG.h ../LIBS\STD_TYPES.h ../TIMER_INT.h ../DIO_INT.h
+
+../LIBS\MATH.h:
+
+../AVR_TIMER_REG.h:
+
+../LIBS\STD_TYPES.h:
+
+../TIMER_INT.h:
+
+../DIO_INT.h:
